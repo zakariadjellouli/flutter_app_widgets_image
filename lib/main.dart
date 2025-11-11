@@ -23,20 +23,23 @@ class MainApp extends StatelessWidget {
             children: [
               SizedBox(height: 20),
               Text(
-                'Bienvenue dans cet atelier !',
+                'Bienvenue !',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
-                  color: Colors.blueAccent,
+                  color: Color.fromARGB(255, 233, 152, 3),
                 ),
               ),
               SizedBox(height: 20),
-              Image.network('https://picsum.photos/200', width: 200),
+              Image.network('https://picsum.photos/id/42/300/200', width: 300),
               SizedBox(height: 20),
               Text(
-                'Decouvrez comment construire une interface simple et elegante.',
+                'Un endroit parfait pour étudier ou se retrouver entre amis et collegues ... Détendez-vous avec nos cafés artisanaux et pâtisseries maison !',
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 16),
+                style: TextStyle(
+                  fontSize: 18,
+                  color: Color.fromARGB(255, 218, 154, 16),
+                ),
               ),
             ],
           ),
