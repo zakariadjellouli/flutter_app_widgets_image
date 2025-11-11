@@ -10,11 +10,4 @@
 
 ## Widgets Utilisés
 
-- `AppBar` - Navigation
-- `Container` - Layout principal  
-- `Column` - Disposition verticale
-- `Row` - Boutons horizontaux
-- `Image.network` - Image externe
-- `ElevatedButton` - Bouton principal
-- `OutlinedButton` - Bouton secondaire
-- `SizedBox` - Espacements
+- `AppBar` - `Container` - `Column`- `Row` - `Image.network` - `ElevatedButton` - `OutlinedButton` - `SizedBox`
