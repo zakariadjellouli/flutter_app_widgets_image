@@ -59,6 +59,13 @@ class MainApp extends StatelessWidget {
                   ),
                 ],
               ),
+              SizedBox(height: 40),
+              TextButton(
+                onPressed: () {
+                  print("tas cliqué sur acheter");
+                },
+                child: Text('ACHETER UN CAFE MAINTENANT'),
+              ),
             ],
           ),
         ),
