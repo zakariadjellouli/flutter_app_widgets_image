@@ -41,6 +41,24 @@ class MainApp extends StatelessWidget {
                   color: Color.fromARGB(255, 218, 154, 16),
                 ),
               ),
+              SizedBox(height: 30),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  ElevatedButton(
+                    onPressed: () {
+                      print("tu as cliqué sur commencer");
+                    },
+                    child: Text('Commencer'),
+                  ),
+                  OutlinedButton(
+                    onPressed: () {
+                      print("tu as cliqué sur en savoir plus");
+                    },
+                    child: Text('En savoir plus'),
+                  ),
+                ],
+              ),
             ],
           ),
         ),
