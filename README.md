@@ -1,5 +1,12 @@
 # flutter_app_widgets_image
 
+## Étapes Réalisées
+- Étape 1 : Créer un projet Flutter
+- Étape 2 : Ajout de AppBar
+- Étape 3 : Ajouter du texte et une image
+- Étape 4 : Ajouter des boutons interactifs
+- Étape 5 : Tester sur differents appareils
+- 
 ## Fonctionnalités
 
 - **AppBar** avec titre centré et couleur bleue
