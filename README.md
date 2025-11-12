@@ -6,7 +6,7 @@
 - Étape 3 : Ajouter du texte et une image
 - Étape 4 : Ajouter des boutons interactifs
 - Étape 5 : Tester sur differents appareils
-- 
+
 ## Fonctionnalités
 
 - **AppBar** avec titre centré et couleur bleue
